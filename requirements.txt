@@ -1,0 +1,9 @@
+numpy
+librosa
+soundfile
+scipy
+matplotlib
+pytest
+customtkinter
+sounddevice
+pyinstaller
